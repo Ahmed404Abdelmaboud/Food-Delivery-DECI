@@ -1,5 +1,5 @@
-# Food Delivery - Part 1
-The part 1 of the final project of level 3 - first term in "DECI", This is a data analysis project in which, I will work with a food delivery dataset and follow the complete data analysis workflow used in real-world business enviroments.
+# Food Delivery DECI
+The final project of level 3 - first term in "DECI", This is a data analysis project in which, I will work with a food delivery dataset and follow the complete data analysis workflow used in real-world business enviroments.
 # Dataset Features
 - order_id: Unique identifier for each order.
 - customer_id: Unique identifier for each customer.
